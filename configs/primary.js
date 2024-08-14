@@ -1,4 +1,4 @@
-module.exports = {
+export default {
 	printWidth: 120,
 	tabWidth: 2,
 	useTabs: true,
@@ -16,7 +16,7 @@ module.exports = {
 	insertPragma: false,
 	proseWrap: 'preserve',
 	htmlWhitespaceSensitivity: 'css',
-	vueIndentScriptAndStyle: false,
+	vueIndentScriptAndStyle: true,
 	endOfLine: 'auto',
 	embeddedLanguageFormatting: 'auto',
 	singleAttributePerLine: false,
