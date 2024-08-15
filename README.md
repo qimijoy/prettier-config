@@ -19,5 +19,5 @@ export default {
 ```
 
 ## Adding new configurations
-Put the configurations in the configs folder. Each configuration is a ES-module that exports an object.
+Put the configurations in the configs folder. Each configuration is an ES-module that exports an object.
 https://prettier.io/docs/en/configuration.html#sharing-configurations
